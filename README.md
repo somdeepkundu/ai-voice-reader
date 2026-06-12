@@ -1,5 +1,6 @@
 # 🎙️ AuraVoice AI
 
+https://somdeepkundu.github.io/ai-voice-reader/
 An elegant, offline-first, client-side AI Text-to-Speech (TTS) application designed to run completely inside your web browser. Built using **React**, **Tailwind CSS**, and modern web standards, AuraVoice AI allows you to convert text manuscripts and research papers into natural speech with zero server overhead and absolute privacy.
 
 ---
